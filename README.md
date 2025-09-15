@@ -1,4 +1,4 @@
-# Git
+# Básico Git
 
 ## Parte 1: estudo interativo
 
@@ -34,11 +34,17 @@ Assista até a aula 11.
 
 https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
 
+# Básico Github
+
+## Parte 1: estudo teórico
+
+Assista até a aula 12 ao 15
+
+https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
+
 Com os conhecimentos adiquiridos de git, volte no Aplicativo interativo e continue os níveis.
 
-## Parte 3: estudo aprofundado
-
-### Estudo inicial do git:
+# Do básico ao avançado Git
 
 -   Entendendo GIT | (não é um tutorial!): https://www.youtube.com/watch?v=6Czd1Yetaac
 
