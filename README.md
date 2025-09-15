@@ -1,14 +1,42 @@
 # Git
 
-### Estudo inicial do git:
+## Parte 1: estudo interativo
 
-https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
-
-### Aplicativo:
+### Aplicativo interativo:
 
 Este aplicativo foi desenvolvido para ajudar os iniciantes a aprender os poderosos conceitos por trás do branching com o git. Esperamos que você goste deste aplicativo e talvez até aprenda alguma coisa!
 
 https://learngitbranching.js.org/?locale=pt_BR
+
+Como começar:
+1- Tela de Bem-vindo ao Learn Git Branching!
+2- clique na seta verde
+3- clique na seta verde
+4- clique no V
+
+em main> Sequência introdutório, começe por:
+
+Uma breve introdução à maioria dos comandos do git
+1: Introdução aos commits no Git
+Clique no numero 1
+
+Caso tenha dúvifa clique em mostrar objetivo e instruções
+
+Caso deseja ver o menu do tutorial, clique na interrogação (inferior direita da tela)
+
+Faça até o level 3 e inicie o estudo abaixo
+
+## Parte 2: estudo teórico
+
+### Estudo inicial do git:
+
+Assista até a aula 11.
+
+https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
+
+Com os conhecimentos adiquiridos de git, volte no Aplicativo interativo e continue os níveis.
+
+## Parte 3: estudo aprofundado
 
 ### Estudo inicial do git:
 
