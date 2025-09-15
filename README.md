@@ -1,8 +1,8 @@
 # Básico Git
 
-## Parte 1: estudo interativo
+## Parte 1: Estudo interativo
 
-### Aplicativo interativo:
+Git branching é uma ferramenta interativa gratuita para aprender e praticar conceitos do Git.
 
 Este aplicativo foi desenvolvido para ajudar os iniciantes a aprender os poderosos conceitos por trás do branching com o git. Esperamos que você goste deste aplicativo e talvez até aprenda alguma coisa!
 
@@ -49,3 +49,7 @@ Com os conhecimentos adiquiridos de git, volte no Aplicativo interativo e contin
 -   Entendendo GIT | (não é um tutorial!): https://www.youtube.com/watch?v=6Czd1Yetaac
 
 -   Entendendo GIT | (não é um tutorial!): https://www.youtube.com/watch?v=6OokP-NE49k
+
+referências:
+
+https://docs.github.com/pt/enterprise-server@3.15/get-started/start-your-journey/git-and-github-learning-resources
